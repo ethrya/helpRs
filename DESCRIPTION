@@ -1,0 +1,15 @@
+Package: helpRs
+Title: Misc helper R functions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ethan", "Ryan", , "ethanryan9@gmail.com", role = c("aut", "cre"))
+Description: This contains some helper functions that I use to do different common R functions.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+  crayon,
+  pdftools,
+  assertthat,
+  stringr
